@@ -8,6 +8,7 @@ Trabajo Inteligencia Artifical
 Profesora: Jazna Meza Integrantes:
 
 Leonardo Bustos Vallejos
+
 Javier Villena Novoa
 
 Juan Yáñez Romero
